@@ -29,8 +29,6 @@
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&labelColor=CC6699&style=flat-square)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?logo=styledcomponents&logoColor=white&labelColor=DB7093&style=flat-square)
 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&labelColor=181717&style=flat-square)
-
 <br></br>
 
 ## 💬 Contact 💬

@@ -22,8 +22,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&labelColor=61DAFB&style=flat-square)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&labelColor=646CFF&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&labelColor=000000&style=flat-square)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&labelColor=FF9900&style=flat-square)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&labelColor=009639&style=flat-square)
 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&labelColor=06B6D4&style=flat-square)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&labelColor=CC6699&style=flat-square)

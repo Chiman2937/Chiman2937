@@ -29,6 +29,10 @@
 
 <br></br>
 
+## 📎 Contributes 📎
+- [storybookjs/storybook#32998](https://github.com/storybookjs/storybook/pull/32998) - Next.js: Support top-level weight/style in next/font/local with string src (Webpack implementation)
+<br></br>
+
 ## 💬 Contact 💬
 [![cyga2933@gmail.com](https://img.shields.io/badge/-cyga2933@gmail.com-EA4335?logo=gmail&logoColor=white&labelColor=EA4335&style=flat-square)](mailto:cyga2933@gmail.com)
 <!--

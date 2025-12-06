@@ -30,7 +30,8 @@
 <br></br>
 
 ## 📎 Contributes 📎
-- [storybookjs/storybook#32998](https://github.com/storybookjs/storybook/pull/32998) - Next.js: Support top-level weight/style in next/font/local with string src (Webpack implementation)
+[storybookjs/storybook#32998](https://github.com/storybookjs/storybook/pull/32998) - Next.js: Support top-level weight/style (Released in v10.2.0-alpha.3)
+ 
 <br></br>
 
 ## 💬 Contact 💬

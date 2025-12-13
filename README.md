@@ -30,8 +30,31 @@
 <br></br>
 
 ## 📎 Contributes 📎
-[storybookjs/storybook#32998](https://github.com/storybookjs/storybook/pull/32998) - Next.js: Support top-level weight/style (Released in v10.2.0-alpha.3)
- 
+<table>
+  <thead>
+    <tr>
+      <th width="100px">Date</th>
+      <th width="200px">Project</th>
+      <th width="700px">PR</th>
+      <th width="200px">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2025.12.02</td>
+      <td>storybook</td>
+      <td><a href='https://github.com/storybookjs/storybook/pull/32998'>#32998</a><p>Next.js localFont의 top-level weight/style 속성 지원</p></td>
+      <td><p>✅ Released</p>(v10.2.0-alpha.3)</td>
+    </tr>
+    <tr>
+      <td>2025.12.13</td>
+      <td>vite-plugin-storyboook-nextjs</td>
+      <td><a href='https://github.com/storybookjs/vite-plugin-storybook-nextjs/pull/81'>#81</a><p>Vite 플러그인의 localFont 로딩 오류 수정 (URL 포맷팅 및 CSS 구문)</p></td>
+      <td>✅ Merged</td>
+    </tr>
+  </tbody>
+</table>
+
 <br></br>
 
 ## 💬 Contact 💬

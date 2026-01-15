@@ -14,18 +14,23 @@
 <br></br>
 
 ## 🛠 Tech Stacks 🛠
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&labelColor=F7DF1E&style=flat-square)
-![css](https://img.shields.io/badge/-css-663399?logo=css&logoColor=white&labelColor=663399&style=flat-square)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&labelColor=E34F26&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&labelColor=3178C6&style=flat-square)
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&labelColor=61DAFB&style=flat-square)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&labelColor=646CFF&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&labelColor=000000&style=flat-square)
-
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&labelColor=06B6D4&style=flat-square)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&labelColor=CC6699&style=flat-square)
-![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?logo=styledcomponents&logoColor=white&labelColor=DB7093&style=flat-square)
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm">  
+<br/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white&labelColor=CC6699" alt="SASS">
+<img src="https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white&labelColor=DB7093" alt="Styled Components">
+<br/>
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook">
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest">
+<img src="https://img.shields.io/badge/MSW-FF6A33?style=flat-square&logo=mockserviceworker&logoColor=white" alt="MSW">
+<br/>
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=icloud&logoColor=white" alt="AWS EC2">
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
 
 <br></br>
 

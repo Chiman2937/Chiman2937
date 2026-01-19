@@ -67,6 +67,7 @@
 
 ## 💬 Contact 💬
 [![cyga2933@gmail.com](https://img.shields.io/badge/-cyga2933@gmail.com-EA4335?logo=gmail&logoColor=white&labelColor=EA4335&style=flat-square)](mailto:cyga2933@gmail.com)
+
 <!--
 **Chiman2937/Chiman2937** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -83,15 +84,11 @@ Here are some ideas to get you started:
 -->
 </div>
 
-<!--
+
 <details>
   <summary>🌱 Github Stats</summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiman2937)](https://github.com/Chiman2937/github-readme-stats)
 
 ![Chiman2937's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiman2937&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiman2937&layout=compact&theme=onedark&exclude_repo=Chiman2937.github.io)
   
 </details>
-
--->

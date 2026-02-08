@@ -51,13 +51,13 @@
     <tr>
       <td>2025.12.02</td>
       <td><a href='https://github.com/storybookjs/storybook'>storybook</a></td>
-      <td><a href='https://github.com/storybookjs/storybook/pull/32998'>#32998</a><p>Next.js localFont의 top-level weight/style 속성 지원</p></td>
+      <td><a href='https://github.com/storybookjs/storybook/pull/32998'>#32998</a><p>next/font/local 처리 시 유효하지 않은 CSS 클래스명이 생성되던 로직 수정</p></td>
       <td><p>✅ Released</p>(v10.2.0-alpha.3)</td>
     </tr>
     <tr>
       <td>2025.12.13</td>
       <td><a href='https://github.com/storybookjs/vite-plugin-storybook-nextjs'>vite-plugin-storyboook-nextjs</a></td>
-      <td><a href='https://github.com/storybookjs/vite-plugin-storybook-nextjs/pull/81'>#81</a><p>Vite 플러그인의 localFont 로딩 오류 수정 (URL 포맷팅 및 CSS 구문)</p></td>
+      <td><a href='https://github.com/storybookjs/vite-plugin-storybook-nextjs/pull/81'>#81</a><p>Vite 플러그인 - 잘못된 @fs 시스템 참조 로직으로 인한 폰트 로딩 경로 오류 수정</p></td>
       <td>✅ Merged</td>
     </tr>
   </tbody>
